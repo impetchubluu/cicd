@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "cicd-c5af2",
+    "staging": "cicd-c5af2"
+  },
+  "targets": {},
+  "etags": {}
+}
